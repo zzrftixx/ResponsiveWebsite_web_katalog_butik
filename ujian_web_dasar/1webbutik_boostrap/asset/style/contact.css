@@ -1,0 +1,52 @@
+.contact {
+    padding: 130px 0;
+
+}
+
+.contact .heading h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.contact .heading h2 span {
+    color: #ff9100;
+}
+
+.contact .heading p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #999999;
+    margin: 20px 0 60px;
+    padding: 0;
+    text-align: center;
+}
+
+.contact .form-control {
+    padding: 25px;
+    font-size: 13px;
+    margin-bottom: 10px;
+    background: #f9f9f9;
+    border: 0;
+    border-radius: 10px;
+}
+
+.contact button.btn {
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    background: #ff9100;
+    color: #ffffff;
+    align-content: center;
+}
+
+.form {
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
